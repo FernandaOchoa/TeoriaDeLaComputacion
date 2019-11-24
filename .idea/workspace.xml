@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aee07bcc-17e9-49d1-b4f4-315eec055874" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RnZLEdk5ogcNZWFWsy02R1zWYZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AnalizadorLexico.main.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AnalizadorLexico.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AnalisisTokenLexico.main.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AnalisisTokenLexico.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AnalisisTokenLexico.main.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AnalisisTokenLexico.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DosLadosAnalizador.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DosLadosAnalizador.files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AutomatasEquivalentes.Main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AutomatasEquivalentes.logica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MinimizacionAutomatas.main" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.MinimizacionAutomatas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AnalizadorLexico.util.pruebas" />
+      <module name="TeoriaDeLaComputacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AnalizadorLexico.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.pruebas" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee07bcc-17e9-49d1-b4f4-315eec055874" name="Default Changelist" comment="" />
+      <created>1570304762895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570304762895</updated>
+      <workItem from="1570304767232" duration="454000" />
+      <workItem from="1570305306404" duration="13077000" />
+      <workItem from="1570325274338" duration="114000" />
+      <workItem from="1570325410929" duration="2641000" />
+      <workItem from="1570330401346" duration="5044000" />
+      <workItem from="1570380605397" duration="5869000" />
+      <workItem from="1570467695045" duration="50000" />
+      <workItem from="1570467767363" duration="567000" />
+      <workItem from="1570578140740" duration="5464000" />
+      <workItem from="1570583687830" duration="4982000" />
+      <workItem from="1570717502018" duration="5412000" />
+      <workItem from="1570995674554" duration="848000" />
+      <workItem from="1571020264300" duration="2821000" />
+      <workItem from="1571023205358" duration="442000" />
+      <workItem from="1571067094275" duration="275000" />
+      <workItem from="1571148183351" duration="6953000" />
+      <workItem from="1571168580983" duration="1341000" />
+      <workItem from="1571235076552" duration="72000" />
+      <workItem from="1572954537472" duration="2024000" />
+      <workItem from="1574185939788" duration="789000" />
+      <workItem from="1574191225574" duration="1090000" />
+      <workItem from="1574265686015" duration="282000" />
+      <workItem from="1574269254517" duration="38000" />
+      <workItem from="1574351703026" duration="476000" />
+      <workItem from="1574353442473" duration="4104000" />
+      <workItem from="1574361022933" duration="4535000" />
+      <workItem from="1574385202433" duration="5698000" />
+      <workItem from="1574434611011" duration="5025000" />
+      <workItem from="1574442256760" duration="270000" />
+      <workItem from="1574444241874" duration="519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
